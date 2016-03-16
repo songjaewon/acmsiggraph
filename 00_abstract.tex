@@ -1,0 +1,9 @@
+\begin{abstract}
+
+We propose a novel inverse motion mapping method for the parameters in \textit{rig space} - the space continuously spanned by the control parameters commonly employed for the setup of a character. 
+Since the rig space is the user interface designed to help an artist interact with a character in various ways for the creation of animation, it is difficult to provide a general solution for the inverse rig mapping that can work for arbitrary rigs.
+Our inverse motion mapping method maps the existing motion data into the rig space parameters based on spacetime optimization. The technique does not require any user provided priors such as manual identification of correspondences or example motions created by an artist.
+We first perform analysis of the rig of a character and generate a correlation map between the rig space and the skeleton space. Based on the correlation map, we divide the full body rig into a set of mutually independent groups of the body parts to change the full body optimization problem into a set of sub-body optimization problems. This allows fast convergence of the computation. 
+We also propose a novel representation for rigid skeletal motion, which is defined as a curve on the \SE{} Lie group in order to achieve accurate measurement of the distance during the optimization process. Due to the difficulty involved in the parameter optimization on a curved manifold of Lie group, we perform the optimization after the linearization of the manifold into the Lie algebra \se{} which is the vector space of Lie group. Additionally, the artist can assign constraints during the optimization to specify the working style and to handle commonly occurring motion mapping artifacts such as self-penetration. The results show that our motion mapping can be applied robustly to various rig types and therefore increase the productivity in the professional production pipeline.
+
+\end{abstract}

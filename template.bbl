@@ -1,0 +1,216 @@
+\begin{thebibliography}{\protect\citename{Boros{\'a}n et~al\mbox{.} }2012}
+
+\bibitem[\protect\citename{Athias }2013]{DigitalTutor2013}
+{\sc Athias, D.}, 2013.
+\newblock Digital tutor: Map motion capture data to your custom rig.
+\newblock
+  \url{http://www.digitaltutors.com/tutorial/926-Retargeting-MoCap-to-Custom-Rigs-in-Maya}.
+
+\bibitem[\protect\citename{Bang et~al\mbox{.} }2015]{bang2015interactive}
+{\sc Bang, S., Choi, B., Blanco~i Ribera, R., Kim, M., Lee, S.-H., and Noh, J.}
+\newblock 2015.
+\newblock Interactive rigging with intuitive tools.
+\newblock In {\em Computer Graphics Forum}, vol.~34, Wiley Online Library,
+  123--132.
+
+\bibitem[\protect\citename{Baran and Popovi{\'c} }2007]{baran2007automatic}
+{\sc Baran, I., and Popovi{\'c}, J.}
+\newblock 2007.
+\newblock Automatic rigging and animation of 3d characters.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, vol.~26, ACM, 72.
+
+\bibitem[\protect\citename{Blanco }2010]{blanco2010tutorial}
+{\sc Blanco, J.-L.}
+\newblock 2010.
+\newblock A tutorial on se (3) transformation parameterizations and on-manifold
+  optimization.
+\newblock {\em University of Malaga, Tech. Rep\/}.
+
+\bibitem[\protect\citename{Boros{\'a}n et~al\mbox{.} }2012]{borosan2012rigmesh}
+{\sc Boros{\'a}n, P., Jin, M., DeCarlo, D., Gingold, Y., and Nealen, A.}
+\newblock 2012.
+\newblock Rigmesh: automatic rigging for part-based shape modeling and
+  deformation.
+\newblock {\em ACM Transactions on Graphics (TOG) 31}, 6, 198.
+
+\bibitem[\protect\citename{Buss }2004]{buss2004introduction}
+{\sc Buss, S.~R.}
+\newblock 2004.
+\newblock Introduction to inverse kinematics with jacobian transpose,
+  pseudoinverse and damped least squares methods.
+\newblock {\em IEEE Journal of Robotics and Automation 17}, 1-19, 16.
+
+\bibitem[\protect\citename{Choi and Ko }1999]{choi1999line}
+{\sc Choi, K.-J., and Ko, H.-S.}
+\newblock 1999.
+\newblock On-line motion retargetting.
+\newblock In {\em Computer Graphics and Applications, 1999. Proceedings.
+  Seventh Pacific Conference on}, IEEE, 32--42.
+
+\bibitem[\protect\citename{Gleicher }1998]{gleicher1998retargetting}
+{\sc Gleicher, M.}
+\newblock 1998.
+\newblock Retargetting motion to new characters.
+\newblock In {\em Proceedings of the 25th annual conference on Computer
+  graphics and interactive techniques}, ACM, 33--42.
+
+\bibitem[\protect\citename{Hahn et~al\mbox{.} }2012]{hahn2012rig}
+{\sc Hahn, F., Martin, S., Thomaszewski, B., Sumner, R., Coros, S., and Gross,
+  M.}
+\newblock 2012.
+\newblock Rig-space physics.
+\newblock {\em ACM transactions on graphics (TOG) 31}, 4, 72.
+
+\bibitem[\protect\citename{Hahn et~al\mbox{.} }2013]{hahn2013efficient}
+{\sc Hahn, F., Thomaszewski, B., Coros, S., Sumner, R.~W., and Gross, M.}
+\newblock 2013.
+\newblock Efficient simulation of secondary motion in rig-space.
+\newblock In {\em Proceedings of the 12th ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, ACM, 165--171.
+
+\bibitem[\protect\citename{Halit and Capin }2011]{halit2011multiscale}
+{\sc Halit, C., and Capin, T.}
+\newblock 2011.
+\newblock Multiscale motion saliency for keyframe extraction from motion
+  capture sequences.
+\newblock {\em Computer Animation and Virtual Worlds 22}, 1, 3--14.
+
+\bibitem[\protect\citename{Hecker et~al\mbox{.} }2008]{hecker2008real}
+{\sc Hecker, C., Raabe, B., Enslow, R.~W., DeWeese, J., Maynard, J., and van
+  Prooijen, K.}
+\newblock 2008.
+\newblock Real-time motion retargeting to highly varied user-created
+  morphologies.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, vol.~27, ACM, 27.
+
+\bibitem[\protect\citename{Ho et~al\mbox{.} }2010]{ho2010spatial}
+{\sc Ho, E.~S., Komura, T., and Tai, C.-L.}
+\newblock 2010.
+\newblock Spatial relationship preserving character motion adaptation.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, vol.~29, ACM, 33.
+
+\bibitem[\protect\citename{Holden et~al\mbox{.} }2015]{holden2015learning}
+{\sc Holden, D., Saito, J., and Komura, T.}
+\newblock 2015.
+\newblock Learning an inverse rig mapping for character animation.
+\newblock In {\em Proceedings of the 14th ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, ACM, 165--173.
+
+\bibitem[\protect\citename{Hsu et~al\mbox{.} }2005]{hsu2005style}
+{\sc Hsu, E., Pulli, K., and Popovi{\'c}, J.}
+\newblock 2005.
+\newblock Style translation for human motion.
+\newblock {\em ACM Transactions on Graphics (TOG) 24}, 3, 1082--1089.
+
+\bibitem[\protect\citename{Kulpa et~al\mbox{.} }2005]{kulpa2005morphology}
+{\sc Kulpa, R., Multon, F., and Arnaldi, B.}
+\newblock 2005.
+\newblock Morphology-independent representation of motions for interactive
+  human-like animation.
+\newblock In {\em Computer Graphics Forum}, vol.~24, Wiley Online Library,
+  343--351.
+
+\bibitem[\protect\citename{Lipsey and Wilson }2001]{mark2001practical}
+{\sc Lipsey, M.~W., and Wilson, D.~B.}
+\newblock 2001.
+\newblock {\em Practical meta-analysis}, vol.~49.
+\newblock Sage publications Thousand Oaks, CA.
+
+\bibitem[\protect\citename{McLaughlin et~al\mbox{.}
+  }2011]{mclaughlin2011character}
+{\sc McLaughlin, T., Cutler, L., and Coleman, D.}
+\newblock 2011.
+\newblock Character rigging, deformations, and simulations in film and game
+  production.
+\newblock In {\em ACM SIGGRAPH 2011 Courses}, ACM, 5.
+
+\bibitem[\protect\citename{Monzani et~al\mbox{.} }2000]{monzani2000using}
+{\sc Monzani, J.-S., Baerlocher, P., Boulic, R., and Thalmann, D.}
+\newblock 2000.
+\newblock Using an intermediate skeleton and inverse kinematics for motion
+  retargeting.
+\newblock In {\em Computer Graphics Forum}, vol.~19, Wiley Online Library,
+  11--19.
+
+\bibitem[\protect\citename{Murray et~al\mbox{.} }1994]{murray1994mathematical}
+{\sc Murray, R.~M., Li, Z., Sastry, S.~S., and Sastry, S.~S.}
+\newblock 1994.
+\newblock {\em A mathematical introduction to robotic manipulation}.
+\newblock CRC press.
+
+\bibitem[\protect\citename{Orvalho et~al\mbox{.} }2012]{orvalho2012facial}
+{\sc Orvalho, V., Bastos, P., Parke, F., Oliveira, B., and Alvarez, X.}
+\newblock 2012.
+\newblock A facial rigging survey.
+\newblock In {\em in Proc. of the 33rd Annual Conference of the European
+  Association for Computer Graphics-Eurographics}, 10--32.
+
+\bibitem[\protect\citename{Palamar }2013]{palamar2013mastering}
+{\sc Palamar, T.}
+\newblock 2013.
+\newblock {\em Mastering Autodesk Maya 2014: Autodesk Official Press}.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citename{Poirier and Paquette }2009]{poirier2009rig}
+{\sc Poirier, M., and Paquette, E.}
+\newblock 2009.
+\newblock Rig retargeting for 3d animation.
+\newblock In {\em Proceedings of Graphics Interface 2009}, Canadian Information
+  Processing Society, 103--110.
+
+\bibitem[\protect\citename{Seo et~al\mbox{.} }2010]{seo2010rigging}
+{\sc Seo, J., Seol, Y., Wi, D., Kim, Y., and Noh, J.}
+\newblock 2010.
+\newblock Rigging transfer.
+\newblock {\em Computer Animation and Virtual Worlds 21}, 3-4, 375--386.
+
+\bibitem[\protect\citename{Seol et~al\mbox{.} }2011]{seol2011artist}
+{\sc Seol, Y., Seo, J., Kim, P.~H., Lewis, J., and Noh, J.}
+\newblock 2011.
+\newblock Artist friendly facial animation retargeting.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, vol.~30, ACM, 162.
+
+\bibitem[\protect\citename{Seol et~al\mbox{.} }2013]{seol2013creature}
+{\sc Seol, Y., O'Sullivan, C., and Lee, J.}
+\newblock 2013.
+\newblock Creature features: online motion puppetry for non-human characters.
+\newblock In {\em Proceedings of the 12th ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, ACM, 213--221.
+
+\bibitem[\protect\citename{Shin et~al\mbox{.} }2001]{shin2001computer}
+{\sc Shin, H.~J., Lee, J., Shin, S.~Y., and Gleicher, M.}
+\newblock 2001.
+\newblock Computer puppetry: An importance-based approach.
+\newblock {\em ACM Transactions on Graphics (TOG) 20}, 2, 67--94.
+
+\bibitem[\protect\citename{Tassa et~al\mbox{.} }2012]{tassa2012synthesis}
+{\sc Tassa, Y., Erez, T., and Todorov, E.}
+\newblock 2012.
+\newblock Synthesis and stabilization of complex behaviors through online
+  trajectory optimization.
+\newblock In {\em Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ
+  International Conference on}, IEEE, 4906--4913.
+
+\bibitem[\protect\citename{Vemulapalli et~al\mbox{.}
+  }2014]{vemulapalli2014human}
+{\sc Vemulapalli, R., Arrate, F., and Chellappa, R.}
+\newblock 2014.
+\newblock Human action recognition by representing 3d skeletons as points in a
+  lie group.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2014 IEEE
+  Conference on}, IEEE, 588--595.
+
+\bibitem[\protect\citename{Witkin and Popovic }1995]{witkin1995motion}
+{\sc Witkin, A., and Popovic, Z.}
+\newblock 1995.
+\newblock Motion warping.
+\newblock In {\em Proceedings of the 22nd annual conference on Computer
+  graphics and interactive techniques}, ACM, 105--108.
+
+\bibitem[\protect\citename{Zatsiorsky }2002]{zatsiorsky2002kinetics}
+{\sc Zatsiorsky, V.~M.}
+\newblock 2002.
+\newblock {\em Kinetics of human motion}.
+\newblock Human Kinetics.
+
+\end{thebibliography}

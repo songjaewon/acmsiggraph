@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: template.aux
+The style file: acmsiggraph.bst
+Database file #1: template.bib
+Warning--can't use both volume and number fields in bang2015interactive
+Warning--can't use both volume and number fields in baran2007automatic
+Warning--can't use both volume and number fields in hecker2008real
+Warning--can't use both volume and number fields in ho2010spatial
+Warning--can't use both volume and number fields in kulpa2005morphology
+Warning--can't use both volume and number fields in monzani2000using
+Warning--empty organization in orvalho2012facial
+Warning--can't use both volume and number fields in seol2011artist
+You've used 31 entries,
+            2748 wiz_defined-function locations,
+            772 strings with 9703 characters,
+and the built_in function-call counts, 12807 in all, are:
+= -- 1268
+> -- 596
+< -- 0
++ -- 203
+- -- 212
+* -- 1064
+:= -- 2149
+add.period$ -- 123
+call.type$ -- 31
+change.case$ -- 217
+chr.to.int$ -- 31
+cite$ -- 39
+duplicate$ -- 469
+empty$ -- 1004
+format.name$ -- 237
+if$ -- 2596
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 34
+newline$ -- 188
+num.names$ -- 93
+pop$ -- 222
+preamble$ -- 1
+purify$ -- 190
+quote$ -- 0
+skip$ -- 287
+stack$ -- 0
+substring$ -- 607
+swap$ -- 100
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 232
+warning$ -- 8
+while$ -- 116
+width$ -- 35
+write$ -- 454
+(There were 8 warnings)
